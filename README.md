@@ -28,7 +28,7 @@ Although framework expects SoftMax adjusted inputs which are output from either 
 ## How to install
 
 ```
-pip install git+https://github.com/Army-Cyber-Institute/CandC_Framework
+pip install git+https://github.com/ACI-ICSARL/CandC_Framework
 ```
 ### How to set-up
 
