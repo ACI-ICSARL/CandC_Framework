@@ -89,10 +89,13 @@ Roughly, the workflow breaks down as follows:
 
 ## How to cite?
 ```
-@misc{BerenbeimBastian,
-      title={Machine Learning Certainty and Competence Framework}, 
-      author={Alexander M. Berenbeim and Nathaniel D. Bastian},
-      year={2024}
+@misc{BerenbeimBastian2024,
+  author = {Alexander M. Berenbeim and Nathaniel D. Bastian},
+  title = {Machine Learning Certainty and Competence Framework},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/ACI-ICSARL/CandC_Framework/}}
 }
 ```
 
